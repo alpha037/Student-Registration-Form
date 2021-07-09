@@ -1,3 +1,7 @@
+<a href="https://atlas.shubhranil.com" target="\_blank">
+<img src="https://img.shields.io/badge/Developed%20and%20Maintained%20by-Atlas%20Inc-blue">
+</a>
+
 # Student-Registration-Form
 
 A Student Registration Form using Java Swing, Java Event Handling, JDBC and Oracle SQL 10G.
